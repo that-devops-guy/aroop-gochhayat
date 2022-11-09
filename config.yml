@@ -61,10 +61,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Aroop Kumar Gochhayat
     subtitle: "That Devops Guy"
-    imageUrl: "<img location>"
+    imageUrl: "static/aroop-memoji.jpeg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Aroop Memoji
     buttons:
       - name: About
         url: about
