@@ -1,3 +1,4 @@
-# aroop-gochhayat.github.io
-# aroop-gochhayat.github.io
-# aroop-gochhayat.github.io
+# Portfolio + Blog
+## That Devops Guy
+
+Visit:  https://that-devops-guy.github.io/aroop-gochhayat/
