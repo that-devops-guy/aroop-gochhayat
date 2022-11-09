@@ -16,7 +16,7 @@
       <pubDate>Wed, 09 Nov 2022 09:47:38 +0530</pubDate>
       
       <guid>https://that-devops-guy.github.io/aroop-gochhayat/posts/myfirstpost/</guid>
-      <description></description>
+      <description>Hey there 👋</description>
     </item>
     
     <item>
@@ -25,9 +25,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://that-devops-guy.github.io/aroop-gochhayat/about/</guid>
-      <description>Hey there :wave:
+      <description>Hey there 👋
 My name is Aroop and I am a DevOps/Cloud Engineer based out of Banglore.
-Education :mortar_board: Aug 16 - Jun 19 : Banglore University Bachelor of Science (BSc) in Computer Science Skills :computer: Cloud : AWS, GCP, DigitalOcean IaC : Terraform, CrossPlane Orchestration : Kubernetes, Docker, ECS CI/CD : ArgoCD, FluxCD, Gitlab CI, Github Action Monitoring &amp;amp; logging : Prometheus, Grafana, Loki, Cloudwatch Service Mesh : Linkerd Work Experience :briefcase: April 22 - Present : Unbxd</description>
+Education 🎓 Aug 16 - Jun 19 : Banglore University Bachelor of Science (BSc) in Computer Science Skills 💻 Cloud : AWS, GCP, DigitalOcean IaC : Terraform, CrossPlane Orchestration : Kubernetes, Docker, ECS CI/CD : ArgoCD, FluxCD, Gitlab CI, Github Action Monitoring &amp;amp; logging : Prometheus, Grafana, Loki, Cloudwatch Service Mesh : Linkerd Work Experience 💼 April 22 - Present : Unbxd</description>
     </item>
     
   </channel>
