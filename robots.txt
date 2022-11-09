@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://that-devops-guy.github.io/aroop-gochhayat/sitemap.xml
