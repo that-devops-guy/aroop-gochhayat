@@ -130,6 +130,9 @@ menu:
     - identifier: resume
       name: Download CV
       url: /resume.pdf
+    - identifier: wall-of-fame
+      name: Wall Of Fame
+      url: /wall-of-fame/
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
