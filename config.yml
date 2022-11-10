@@ -67,10 +67,12 @@ params:
     imageHeight: 160
     imageTitle: Aroop Memoji
     buttons:
-      - name: About
-        url: about
-      - name: Posts
-        url: posts
+      # - name: About
+      #   url: about
+      # - name: Posts
+      #   url: posts
+      - name: Download CV
+        url: resume.pdf
 
   # home-info mode
   homeInfoParams:
@@ -78,12 +80,14 @@ params:
     Content: Welcome to my website
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    # - name: twitter
+    #   url: "https://twitter.com/"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/that-devops-guy/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/aroop-gochhayat/"
 
   analytics:
     google:
@@ -123,6 +127,9 @@ menu:
       name: Posts
       url: /posts/
       weight: 20
+    - identifier: resume
+      name: Download CV
+      url: /resume.pdf/
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
