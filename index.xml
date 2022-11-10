@@ -27,7 +27,7 @@
       <guid>https://that-devops-guy.github.io/aroop-gochhayat/about/</guid>
       <description>Hey there 👋
 My name is Aroop and I am a DevOps/Cloud Engineer based out of Banglore.
-Education 🎓 Aug 16 - Jun 19 : Banglore University Bachelor of Science (BSc) in Computer Science Skills 💻 Cloud : AWS, GCP, DigitalOcean IaC : Terraform, CrossPlane Orchestration : Kubernetes, Docker, ECS CI/CD : ArgoCD, FluxCD, Gitlab CI, Github Action Monitoring &amp;amp; logging : Prometheus, Grafana, Loki, Cloudwatch Service Mesh : Linkerd Work Experience 💼 April 22 - Present : Unbxd</description>
+Education 🎓 Aug 2016 - Mar 2020 : National Institute of Science and Technology Bachelor of Technology (BTech) in Computer Science Skills 💻 Cloud : AWS, GCP, DigitalOcean IaC : Terraform Orchestration : Kubernetes, Docker, ECS CI/CD : ArgoCD, Gitlab CI, Github Action, Cloud Build Monitoring &amp;amp; logging : Prometheus, Grafana, Loki, Cloudwatch, Google Ops Centre Service Mesh : Linkerd Programming : Shell, Python Work Experience 💼 August 01-22 - Present : Netmeds.</description>
     </item>
     
   </channel>
