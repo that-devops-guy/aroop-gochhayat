@@ -129,7 +129,7 @@ menu:
       weight: 20
     - identifier: resume
       name: Download CV
-      url: /resume.pdf/
+      url: /resume.pdf
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
