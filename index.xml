@@ -9,7 +9,17 @@
       <link>https://that-devops-guy.github.io/aroop-gochhayat/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Nov 2022 09:47:38 +0530</lastBuildDate><atom:link href="https://that-devops-guy.github.io/aroop-gochhayat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 16:09:11 +0530</lastBuildDate><atom:link href="https://that-devops-guy.github.io/aroop-gochhayat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup a Client to Site VPN With OpenVPN</title>
+      <link>https://that-devops-guy.github.io/aroop-gochhayat/posts/setup-a-client-to-site-vpn-with-openvpn/</link>
+      <pubDate>Sat, 12 Nov 2022 16:09:11 +0530</pubDate>
+      
+      <guid>https://that-devops-guy.github.io/aroop-gochhayat/posts/setup-a-client-to-site-vpn-with-openvpn/</guid>
+      <description>Hi There 👋 So this is one of my first articles since I&amp;rsquo;ve started writing. Today we&amp;rsquo;ll see how to setup a Client To Site VPN connectivity Between your local system to your Cloud Provider.
+The other day I was setting up a new Google Cloud VM instance for a code deployment requirement, and suddenly got a Security Breach Alert from my company&amp;rsquo;s Cyber Security operations centre that there&amp;rsquo;s a SSH brute force attack going on on one of our VM instances.</description>
+    </item>
+    
     <item>
       <title>Myfirstpost</title>
       <link>https://that-devops-guy.github.io/aroop-gochhayat/posts/myfirstpost/</link>
