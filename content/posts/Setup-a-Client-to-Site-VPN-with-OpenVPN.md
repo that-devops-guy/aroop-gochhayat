@@ -92,5 +92,10 @@ Here are a couple of steps to get started with OpenVPN in GCP..
 
 ![openvpn](/openvpn.png)
 
+## Conclusion
+Well, I love the way it securely provides access to our cloud infrastructure and definetly gives an edge to the developers devloping and connecting servers/databases while development for a real time Integration testing and all.. Feels good..
+
+Thank You
+
 
 
