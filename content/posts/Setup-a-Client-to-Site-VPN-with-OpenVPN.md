@@ -58,6 +58,11 @@ you need server support personel, maintain the physical server daily, take care 
 
 __HERE COMES THE BADASS!!!__
 
+<!-- ![Elon](https://media.tenor.com/Xrt-ty39PfEAAAAC/elon-musk-smoke.gif) -->
+<p align="center">
+  <img src="https://media.tenor.com/Xrt-ty39PfEAAAAC/elon-musk-smoke.gif" />
+</p>
+
 ## _Client to Site VPN_
 Spoiler Alert !! It comes with very less or no long term commitments..you can break-up anytime you want :broken_heart:
 
