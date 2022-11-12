@@ -6,3 +6,5 @@ draft: false
 ---
 
 Hey there :wave:
+
+![memoji](/openvpn.png)

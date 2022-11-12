@@ -1,7 +1,7 @@
 ---
 title: "Setup a Client to Site VPN With OpenVPN"
 date: 2022-11-12T16:09:11+05:30
-draft: true
+draft: false
 ---
 
 # Hi There :wave:
@@ -90,7 +90,7 @@ Here are a couple of steps to get started with OpenVPN in GCP..
 
 8. Enjoy Doing SSH to your EC2 instance / Mysql to your Database using their Private endpoints.
 
-![openvpn](/openvpn.png)
+![openvpn](/aroop-memoji.jpeg)
 
 ## Conclusion
 Well, I love the way it securely provides access to our cloud infrastructure and definetly gives an edge to the developers devloping and connecting servers/databases while development for a real time Integration testing and all.. Feels good..
