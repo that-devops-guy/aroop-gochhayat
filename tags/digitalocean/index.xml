@@ -9,11 +9,11 @@
       <link>https://that-devops-guy.github.io/aroop-gochhayat/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://that-devops-guy.github.io/aroop-gochhayat/tags/digitalocean/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://that-devops-guy.github.io/aroop-gochhayat/tags/digitalocean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ArgoCD Image Updater with Digital Ocean Container Registry</title>
       <link>https://that-devops-guy.github.io/aroop-gochhayat/posts/argocd-image-update/</link>
-      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://that-devops-guy.github.io/aroop-gochhayat/posts/argocd-image-update/</guid>
       <description>What&amp;rsquo;s on Image Updater A tool to automatically update the container images of Kubernetes workloads that are managed by Argo CD.

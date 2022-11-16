@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://that-devops-guy.github.io/aroop-gochhayat/tags/argocd/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://that-devops-guy.github.io/aroop-gochhayat/posts/argocd-image-update/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://that-devops-guy.github.io/aroop-gochhayat/</loc>
-    <lastmod>2022-11-12T16:09:11+05:30</lastmod>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://that-devops-guy.github.io/aroop-gochhayat/tags/digitalocean/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://that-devops-guy.github.io/aroop-gochhayat/posts/</loc>
-    <lastmod>2022-11-12T16:09:11+05:30</lastmod>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://that-devops-guy.github.io/aroop-gochhayat/tags/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://that-devops-guy.github.io/aroop-gochhayat/posts/setup-a-client-to-site-vpn-with-openvpn/</loc>
     <lastmod>2022-11-12T16:09:11+05:30</lastmod>
   </url><url>
     <loc>https://that-devops-guy.github.io/aroop-gochhayat/posts/myfirstpost/</loc>
     <lastmod>2022-11-09T09:47:38+05:30</lastmod>
-  </url><url>
-    <loc>https://that-devops-guy.github.io/aroop-gochhayat/tags/argocd/</loc>
-    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://that-devops-guy.github.io/aroop-gochhayat/posts/argocd-image-update/</loc>
-    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://that-devops-guy.github.io/aroop-gochhayat/tags/digitalocean/</loc>
-    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://that-devops-guy.github.io/aroop-gochhayat/tags/</loc>
-    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://that-devops-guy.github.io/aroop-gochhayat/wall-of-fame/</loc>
     <priority>0</priority>
