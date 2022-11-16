@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ArgoCD Image Updater with Digital Ocean Container Registry
-date: 2022-02-27
+date: 2022-11-16
 tags: ["ArgoCD", DigitalOcean]
 ---
 ## What's on Image Updater
